@@ -1,8 +1,8 @@
 If you wanna test a live deploy try this website : https://full-stack-dsa-and-algorithms-engine-1.onrender.com/ (It runs on a free tier so it might be a bit slow , Note: No scheduled session cleanup / memory eviction was implemented. On Render free tier upon inactivity Render restarts fresh on the next request which clears all in-memory session state as a side effect)
 
-# Full Stack DSA and Algorithms Engine
+# Full Stack DSA Visualizer
 
-A full-stack DSA Engine: a FastAPI backend implements the actual data
+A FastAPI backend implements the actual data
 structures and algorithms, a React frontend renders and animates them.
 Each visitor gets their own isolated session (via a cookie), so multiple
 people can use the app at the same time without stepping on each other's
