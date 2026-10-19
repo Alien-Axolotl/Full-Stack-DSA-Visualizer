@@ -5,7 +5,7 @@ export default function Home({ onSelectView }) {
             {/*TOP BAR */}
 
             <div className = "top-bar">
-                <h1 className = "top-title">DSA and Algorithms Engine</h1>
+                <h1 className = "top-title">DSA Visualization Web App</h1>
             </div>
 
             {/*DIVIDER*/}
